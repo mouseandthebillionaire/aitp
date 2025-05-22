@@ -4,7 +4,7 @@ Not sure how this is going to function as far as versioning audio projects, but 
 
 05.22.25 | Camera Ready
 
-Submitted the [camera-ready documentation](../CRD.md) to ICMC today. Have been thinking as I prepared this document how much more daunting it is to come up with this concise snapshot of the idea (pallery text, description) than the actual project itself. The soundwalk, while daunting, feels like the fun work. It's basically a lecture done in experimental audio, which seems much more manageable when I think of it that way. The CRD on the other hand, somehow feels more concrete. More scrutinized. Which falls in the line with the thing I always say about your documentation being the thing that more people will experience than the actual project.
+Submitted the [camera-ready documentation](../CRD.md) to ICMC today. Have been thinking as I prepared this document how much more daunting it is to come up with this concise snapshot of the idea (gallery text, description) than the actual project itself. The soundwalk, while daunting, feels like the fun work. It's basically a lecture done in experimental audio, which seems much more manageable when I think of it that way. The CRD on the other hand, somehow feels more concrete. More scrutinized. Which falls in the line with the thing I always say about your documentation being the thing that more people will experience than the actual project.
 
 Aaaaanyway. It's too late now, cause it's submitted and it'll just have to be what it is!
 
@@ -25,3 +25,11 @@ A few notes/thoughts I had on my first lap around the lake:
 * I didn't get any ideas for much more from here so maybe we can stop at one of the statues on Boylston, or just have a non-localized discussion of play as we walk back towards the bridge, ending across from the swan boats.
 
 Over all (and especially after reading through most of "The Well-Played Game" on the plane ride), I am thinking more and more of this as a true invitation to play. An invitation in which the character "I" am the playmate and am positioning myself as a cohabitant in the space of play. An interesting idea, I think. Perhaps not for the entire walk, but definitely for some portion of it.
+
+05.22.25 (Part 3) | Initial Script Pass
+
+I took a (huge) swing at a first pass of the first part of the script, and it's feeling kind of good actually. The friendly, less-authoritative voice feels good. I did a quick take on the second (going left) section, and uploaded it to the Echoes platform (along with a test of overlapping drone notes to see what the sounds like during the walk) Unfortunately the Echos platform is third party, so we won't be able to see/hear the versions as I go, but I took a screenshot which I think gets us a fairly good idea. (also, for a housekeeping note. I am going to leave all of these screeshots with the auto-generated timestamp format that Apple gives them for better tracibility)
+
+![Echos - Iteration 1](../Media/Screenshot%202025-05-22%20at%2018.30.30.png)
+
+Now off to test!
