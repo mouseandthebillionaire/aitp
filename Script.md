@@ -32,6 +32,20 @@ What do you say we head over to those duckling statues up ahead? I'll race you!
 
 ## Under the Bridge
 
+Let's stop here for a second. It's nice to be here together, right? And we are together. We're in the same space. We're both occupying this space under the bridge. But not the same time? I'm here at 7pm on a very very rainy day in the end of May, and you'll be here later. What is it like for you today? Is the weather pleasant? Sunny? Warm? Overcast? Also rainy? 
+
+It's odd that we're in this same space, spread through time, but we're still together. We can both look at the swan boats. As I look at them, they are lashed together, with the wind whipping the waves around them. What do they look like to you? What is the one word that describes a swan boat in your time? 
+
+It's amazing that we can still engage in this state of play together. We agree to enter in this space, what game designers call "the magic circle" and look at the world through that specific lens of play. I could easily leave you a message here that you could find. Look around. Maybe I did? 
+
+(long pause)
+
+I didn't. But I could! That's the beauty of this shared state of play. We both agree to participate. To be a part of it. To step outside our comfort zones for a set amount of time and re-imagine what the world could look like. I spent all day walking around in the rain, getting soaked to the bone, thinking about you. About how we could create play together. And now you're here. 
+
+That's incredible. Thank you for being here.
+
+Spend as much time here as you'd like. When you're ready, head past the swan boats towards the flagpole. I've got something you're going to love over there.
+
 ## A Catwalk
 
 ## Dawn Redwood?
