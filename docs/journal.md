@@ -33,3 +33,9 @@ I took a (huge) swing at a first pass of the first part of the script, and it's 
 ![Echos - Iteration 1](../Media/Screenshot%202025-05-22%20at%2018.30.30.png)
 
 Now off to test!
+
+05.22.25 (Part 4) | Initial Walkthrough
+
+The test went really well. The overlaying of sound zones to create procedural music worked perfectly. I might try to actually record some music today, but it's unfortunate that I don't have my push with me. That would have really made it easy to work on this here (good to know for "next time"!)
+
+I recorded the sound from underneath the bridge. 5 minutes of just the rain and ambient noise, and then I did a version of the "we're in the same space, cohabiting in play together, even though we're across time" conversation. Probably not at all usable, but good to start churning through that dialogue. When I got back to the hotel I worked on that section in the script, so we're making progress there. Just three more sections to go, and hopefully more testing tomorrow! 
