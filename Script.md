@@ -26,8 +26,6 @@ What do you say we head over to those duckling statues up ahead? I'll race you!
 
 ## Objects of Play - Make Way for Ducklings
 
-
-
 ## Triton Babies Fountain
 
 ## Under the Bridge
