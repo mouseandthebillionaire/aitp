@@ -47,3 +47,9 @@ Spent the morning working on a first iteration of what the score could feel like
 Tested the walk through the park, and everything works well. Also did binaural recording for every section. The park was full of people so there's some real opportunity for Cardiff/Miller style juxtaposition here! There was a tiny bit of mic noise at some points, so I think I'll go back early tomorrow morning and do a full pass (which will also be nice to get a third time-frame to work with)
 
 Came back and finished up most of the script. Though I'm a little at a loss with what to do with the Trident Babies section and the Ending. Need some more time to think on that.
+
+05.24.25 | Morning Recording and Walkthrough
+
+Did a lap around the lake recording ambient audio. It sounds really good, but there's definitely a problem with wind noise. I think the best move is to get a windscreen for it and rerecord when I'm back in June. The nice thing about this is that I can record _while_ I'm actually doing the walk, so the timing should be perfect. Not sure how this will actually work as far as _triggering_ the sound within Echoes (or if it is even more it to have the ambient sounds playing the whole time) but it'll be nice to have just in case.
+
+Had an idea for the Trident Babies section this morning. I can create a musically playful section with Echoes there. Create a few overlapping sonic areas and let the listener move between them. This might work better than the whole gardens being the soundtrack like I have it now? Not sure. The other idea was more of a hide and seek or Simon style interaction (i.e try to find the echoes and/or try to trigger them ni the correct order) If I go the "correct order" route, I will need the conditional logic function turned on by Echoes.
