@@ -26,7 +26,17 @@ What do you say we head over to those duckling statues up ahead? I'll race you!
 
 ## Objects of Play - Make Way for Ducklings
 
+I love these little guys. I'm sure you already know that they were made by Nancy Schön in 1987 as a tribute to the classic children's story Make Way for Ducklings, but did you know that the city of Boston routinely dresses them up for holidays? Haha. Little bonnets. Jersey's for the marathon. Santa hats. It's so good.
+
+The materials of play, those external objects or playthings, toys, assets can really influence how we play. Not only do textures, shapes, and other physical characteristic communicate essential aspects of these items (what game designer Tracy Fullerton calls "resources"), but the very introduction of external elements themselves communicates something about the playful experience. A verbal bang, pointed finger, plastic cap-gun, and hyper-realistic 3D modeled firearm all say something very different about the values at play in the games that include them, but the presence of weaponry at all as a "resource" communicates even more. 
+
+Kids are really good at turning normal objects into playthings, whether it be a tree, a crack in the sidewalk, or a cardboard box. We lose that as we get older, but every day we are confronted with things that provide opportunities for play. Take these ducks for example. Other than dress them up, how could we play with them? We could weave between them, jump from one to the next, mimic their poses? What do you think? Any ideas?
+
+We're going to keep going around this bend and head to the Triton Babies fountain. As you go, see what other objects present themselves as possible playthings? The carousel in the commons, obviously? But what else?
+
 ## Triton Babies Fountain
+
+These are just fun, right? An actual statue of play on this walk about play.
 
 ## Under the Bridge
 
@@ -34,11 +44,13 @@ Let's stop here for a second. It's nice to be here together, right? And we are t
 
 It's odd that we're in this same space, spread through time, but we're still together. We can both look at the swan boats. As I look at them, they are lashed together, with the wind whipping the waves around them. What do they look like to you? What is the one word that describes a swan boat in your time? 
 
-It's amazing that we can still engage in this state of play together. We agree to enter in this space, what game designers call "the magic circle" and look at the world through that specific lens of play. I could easily leave you a message here that you could find. Look around. Maybe I did? 
+(INsert some sort of game here? Number guessing? I don't know)
+
+It's amazing that we can still engage in this state of play together. We agree to enter in this space, what game designers call "the magic circle" and look at the world through that specific lens of play. I could easily leave you a message here that you could find. Look around. Maybe I did? Am I the one who wrote ducks for life?
 
 (long pause)
 
-I didn't. But I could! That's the beauty of this shared state of play. We both agree to participate. To be a part of it. To step outside our comfort zones for a set amount of time and re-imagine what the world could look like. I spent all day walking around in the rain, getting soaked to the bone, thinking about you. About how we could create play together. And now you're here. 
+I wasn't. But I could! That's the beauty of this shared state of play. We both agree to participate. To be a part of it. To step outside our comfort zones for a set amount of time and re-imagine what the world could look like. I spent all day walking around in the rain, getting soaked to the bone, thinking about you. About how we could create play together. And now you're here. 
 
 That's incredible. Thank you for being here.
 
@@ -46,9 +58,22 @@ Spend as much time here as you'd like. When you're ready, head past the swan boa
 
 ## A Catwalk
 
+Okay. Stop here for a second. Do you see this straight stretch of path? I think this might be the straightest path we've come across yet. And look at those benches lining the path? Do we have an audience? This is all just _begging_ to be used for something fun. What do you think? We could do a quick race? Or go down the line doing duck duck goose? Or, wait, here's an idea.
+
+Promenade!
+
+So much of play is about performance, taking on the role of something you're not, and this feels too much like a catwalk not to take advantage of it. If you're willing, I want you to think of your best, most fabulous, or most hilarious strut, and slowly walk down this line as if you are being judged for it. Pretend the benches are just _lined_ with people out to determine who has the most wonderfully inventive walk. Are you ready? 
+
+Go (Music Change)
+
+(Cheering sfx?)
+
+Bravo! Well done! That was great. Let's take off our imaginary fabulous vibes costume, and keep going around this corner.
+
+
 ## Dawn Redwood?
 
-
+** note: the general idea here would be something like "woah. Is that another Dawn Redwood. That's incredible. To think that two trees that were once thought to be extinct are here in this park together. Do you think that it can see/sense its sister tree across the lake" Blah blah blah. Sentimental ending. I don't know
 
 
 
