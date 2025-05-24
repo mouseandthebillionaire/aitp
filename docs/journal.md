@@ -39,3 +39,11 @@ Now off to test!
 The test went really well. The overlaying of sound zones to create procedural music worked perfectly. I might try to actually record some music today, but it's unfortunate that I don't have my push with me. That would have really made it easy to work on this here (good to know for "next time"!)
 
 I recorded the sound from underneath the bridge. 5 minutes of just the rain and ambient noise, and then I did a version of the "we're in the same space, cohabiting in play together, even though we're across time" conversation. Probably not at all usable, but good to start churning through that dialogue. When I got back to the hotel I worked on that section in the script, so we're making progress there. Just three more sections to go, and hopefully more testing tomorrow! 
+
+05.23.25 | Score and Script
+
+Spent the morning working on a first iteration of what the score could feel like. A few different zones that add up to a final song as you move through the catwalk phase. Though as I was writing the catwalk phase tonight I realized that an abrupt shit in tone that follows the verbal cues would probably be better, so I'll include that in the dialogue recording instead (which will make it easier for timing and track balance anyway)
+
+Tested the walk through the park, and everything works well. Also did binaural recording for every section. The park was full of people so there's some real opportunity for Cardiff/Miller style juxtaposition here! There was a tiny bit of mic noise at some points, so I think I'll go back early tomorrow morning and do a full pass (which will also be nice to get a third time-frame to work with)
+
+Came back and finished up most of the script. Though I'm a little at a loss with what to do with the Trident Babies section and the Ending. Need some more time to think on that.
