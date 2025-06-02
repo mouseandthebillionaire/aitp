@@ -23,6 +23,8 @@ Matthew Bethancourt, Concordia University, Montreal QC
 
 _An Invitation to Play_ is a soundwalk that encourages a playful look at the world around us. Using experimental audio and lessons from game studies, we will guide you through a series of playful exercises as you walk through Boston Public Garden.
 
+If playing golf is a good walk spoiled, then what is a playful soundwalk exactly? _An Invitation to Play_ is a soundwalk that seeks to answer that question. Using  
+
 **Project Description**
 
 As children we often look at the world through the lens of play - sidewalk cracks invite us to avoid stepping on them under perilous threat; trees for climbing stand out amongst the rest; we determine which house hides the terrifying monster and walk on the other side of the street. However, as we reach adulthood, we often lose this lens of play. This soundwalk invites listeners to adopt a playful attitude toward their natural spaces and the people around them. For fifteen minutes, as listeners stroll around the lake in the Boston Public Garden, we will create the space for a playful interaction with the world. Together, we will explore the positive psychological benefits of play and how a playful attitude affects us and colors our lived experiences. We will hear stories of designers who seek to create playful moments in daily life - designers such as Bernard DeKoven who spent his life inviting others to participate in what he called “the infinite playground.”[1] Finally, by exploring some of the aesthetic elements of play (including imagination, playful objects, flow, and the magic circle), we will create opportunities for playful attitudes towards nature, others, and ourselves.
