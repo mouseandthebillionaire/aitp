@@ -37,7 +37,7 @@ C'mon! Try to keep up!
 
 We chose to go left, but I suppose we easily could have gone right? Somehow clockwise feels appropriate when we're talking about play. Order of turns and all that. Also I'm left-handed, so I tend to favor the left.
 
-Did you know that at Disneyland, (FX) most people traditionally get to the end of Main Street and turn right at Sleeping Beauty's castle? Because of this, Tomorrowland is usually the most crowded right after the park opens. So, the next time you have a choice, why not go left. Or do something else that surprises you. Play with expectations! A lot of submitting to being playful is about giving ourselves these constraints. 
+Did you know that at Disneyland, (FX) most people traditionally get to the end of Main Street and turn right at Sleeping Beauty's castle? Because of this, Tomorrowland is usually the most crowded right after the park opens. So, the next time you have a choice, why not go left. Or do something else that surprises you. Play with expectations! A lot of submitting to being playful is about giving ourselves these constraints. Avoid cracks in the sidewalk. Do your grocery shopping in as fast a time as possible. Try not to use the word "the." Pretend that person on the bench is a spy. Go left!
 
 Speaking of going left, look at that tree to our left. The one with the fern-like leaves and knotty truck. That's a dawn redwood (FACTS)
 
