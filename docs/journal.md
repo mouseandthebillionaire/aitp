@@ -93,3 +93,8 @@ A side note, but I realized as I was looking through these commits to get the au
 ![Logic Window Image](https://raw.githubusercontent.com/mouseandthebillionaire/aitp/2c67cb0/Audio/Dialogues/dialogues.logicx/Alternatives/000/WindowImage.jpg
 )
 
+## 06.03.25 | Catwalk Audio
+
+Audio for the Catwalk game section is all done. Might need some level adjustments once I test it in the space, but feels pretty good here. I'm wondering if the length is okay? I could see it being either _way_ too short or _waaay_ too long. Haha. We'll just have to stick with it and hope for the best!
+
+[Catwalk Section Audio](https://github.com/mouseandthebillionaire/aitp/commit/395c4a9732eecd5541200d77d6d8999af28172a0#diff-f6d660fa58e09a993bd6c7727679af94a614bae364a8292672cdb843f937e6e1/Audio/Score/score%20Project/Bounces/catwalk.wav)
