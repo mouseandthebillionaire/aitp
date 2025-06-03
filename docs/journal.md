@@ -69,19 +69,20 @@ The first three dialogues are done. I have put a bunch of effects/EQ tweaking on
 
 I have added some cinematic sound-effecty stuff in the first two of these. I don't think it's necessary in all of them, but it's definitely fun in the spots I have them.
 
-[Starting Dialogue](https://github.com/mouseandthebillionaire/aitp/commit/2c67cb0ace6917ec75abb84ba61f21d80e5428b5/Audio/Dialogues/Bounces/start.wav)
-[Going Left Dialogue](https://github.com/mouseandthebillionaire/aitp/commit/2c67cb0ace6917ec75abb84ba61f21d80e5428b5/Audio/Dialogues/Bounces/goingLeft.wav)
-[Making Way Dialogue](https://github.com/mouseandthebillionaire/aitp/commit/2c67cb0ace6917ec75abb84ba61f21d80e5428b5/Audio/Dialogues/Bounces/makingWay.wav)
+* [Starting Dialogue](https://github.com/mouseandthebillionaire/aitp/commit/2c67cb0ace6917ec75abb84ba61f21d80e5428b5/Audio/Dialogues/Bounces/start.wav)
+* [Going Left Dialogue](https://github.com/mouseandthebillionaire/aitp/commit/2c67cb0ace6917ec75abb84ba61f21d80e5428b5/Audio/Dialogues/Bounces/goingLeft.wav)
+* [Making Way Dialogue](https://github.com/mouseandthebillionaire/aitp/commit/2c67cb0ace6917ec75abb84ba61f21d80e5428b5/Audio/Dialogues/Bounces/makingWay.wav)
 
 I also have a new score that is working a lot better. 
 
-[Score 2](https://github.com/mouseandthebillionaire/aitp/commit/bc1df3c54944ba8aad0fca3ae1e2e2024b931cda/Audio/Score/score Project/Bounces/score2.wav)
+[Score 2](https://github.com/mouseandthebillionaire/aitp/commit/bc1df3c54944ba8aad0fca3ae1e2e2024b931cda/Audio/Score/score%20Project/Bounces/score2.wav)
+
 
 There's some interesting pattern stuff happening with these staggered marimba notes which would be nice to keep organic within Echoes, but that would mean I need nine overlappiing echo areas which I'm not positive is a good idea (or even feasible?) I might do a test version with just the soundtrack that I can play with in Montreal over the next few days to see.
 
 Lastly, I wrote just the worst clubby EDM fashion show song which sounds like it was made by a high-schooler learning how to use Ableton Live, and I love it. A keeper. No notes.
 
-[Catwalk Soundtrack](https://github.com/mouseandthebillionaire/aitp/commit/2c67cb0ace6917ec75abb84ba61f21d80e5428b5/Audio/Score/score Project/Bounces/catwalkMusic.wav)
+[Catwalk Soundtrack](https://github.com/mouseandthebillionaire/aitp/commit/2c67cb0ace6917ec75abb84ba61f21d80e5428b5/Audio/Score/score%20Project/Bounces/catwalkMusic.wav)
 
 I've already put it into the track in Logic with the sound of a crowded room and paparazzi camera flashes and it sounds so good, but I'll leave off posting that until I finish the rest of the dialogue audio around it.
 
