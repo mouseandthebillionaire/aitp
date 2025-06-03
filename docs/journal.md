@@ -32,7 +32,9 @@ I took a (huge) swing at a first pass of the first part of the script, and it's 
 
 ![Echos - Iteration 1](../Media/Screenshot%202025-05-22%20at%2018.30.30.png)
 
+[Start Audio](https://github.com/mouseandthebillionaire/aitp/commit/375558fb8afea828525f724df3d098ace61a7b80/Audio/Dialogues/Bounces/start.aif)
 [Going Left Audio](https://github.com/mouseandthebillionaire/aitp/commit/4d6160b44a4e06b0264470b8de43a831835421f8/Audio/goingLeft.aif)
+[Bridge Audio](https://github.com/mouseandthebillionaire/aitp/commit/375558fb8afea828525f724df3d098ace61a7b80/Audio/Dialogues/Bounces/bridge.aif)
 
 Now off to test!
 
@@ -55,3 +57,7 @@ Came back and finished up most of the script. Though I'm a little at a loss with
 Did a lap around the lake recording ambient audio. It sounds really good, but there's definitely a problem with wind noise. I think the best move is to get a windscreen for it and rerecord when I'm back in June. The nice thing about this is that I can record _while_ I'm actually doing the walk, so the timing should be perfect. Not sure how this will actually work as far as _triggering_ the sound within Echoes (or if it is even more it to have the ambient sounds playing the whole time) but it'll be nice to have just in case.
 
 Had an idea for the Trident Babies section this morning. I can create a musically playful section with Echoes there. Create a few overlapping sonic areas and let the listener move between them. This might work better than the whole gardens being the soundtrack like I have it now? Not sure. The other idea was more of a hide and seek or Simon style interaction (i.e try to find the echoes and/or try to trigger them ni the correct order) If I go the "correct order" route, I will need the conditional logic function turned on by Echoes.
+
+## 06.03.25 | Housekeeping
+
+Over the last week I have rewritten the score and rewritten/recorded the first three sections of the walk. But I wanted to put a little note in here that I went back and added in the original test recording for goingLeft and the score because I realized that I can use github to point to a specific point in time for those files, rather than continually saving as a new name, which feels really useful (I'm sure that some/everyone else has figured this out, but it only dawned on me how this could work for audio files today...) Next post will discuss these re-recordings in more detail
