@@ -35,6 +35,7 @@ I took a (huge) swing at a first pass of the first part of the script, and it's 
 [Start Audio](https://github.com/mouseandthebillionaire/aitp/commit/375558fb8afea828525f724df3d098ace61a7b80/Audio/Dialogues/Bounces/start.aif)
 [Going Left Audio](https://github.com/mouseandthebillionaire/aitp/commit/4d6160b44a4e06b0264470b8de43a831835421f8/Audio/goingLeft.aif)
 [Bridge Audio](https://github.com/mouseandthebillionaire/aitp/commit/375558fb8afea828525f724df3d098ace61a7b80/Audio/Dialogues/Bounces/bridge.aif)
+[Score](https://github.com/mouseandthebillionaire/aitp/commit/858efcd666d1d12a1b460e922fe75e78a0d27519/Audio/Score/score Project/Bounces/score.wav)
 
 Now off to test!
 
