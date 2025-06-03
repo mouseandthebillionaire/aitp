@@ -45,13 +45,13 @@ What do you say we head over to those duckling statues up ahead? I'll race you!
 
 ## Objects of Play - Make Way for Ducklings
 
-I love these little guys. I'm sure you already know that they were made by Nancy Schön in 1987 as a tribute to the classic children's story Make Way for Ducklings, but did you know that the city of Boston routinely dresses them up for holidays? Haha. Little bonnets. Jersey's for the marathon. Santa hats. It's so good.
+Let's stop here for a minute. I love these little guys. I'm sure you already know that they were made by Nancy Schön in 1987 as a tribute to the classic children's story Make Way for Ducklings, but did you know that the city of Boston routinely dresses them up for holidays? Haha. Little bonnets. Jersey's for the marathon. Santa hats. It's so good.
 
-The materials of play, those external objects or playthings, toys, assets can really influence how we play. Not only do textures, shapes, and other physical characteristic communicate essential aspects of these items (what game designer Tracy Fullerton calls "resources"), but the very introduction of external elements themselves communicates something about the playful experience. A verbal bang, pointed finger, plastic cap-gun, and hyper-realistic 3D modeled firearm all say something very different about the values at play in the games that include them, but the presence of weaponry at all as a "resource" communicates even more. 
+The materials of play, those external objects as playthings or toys can really influence how we play. Not only do textures, shapes, and other physical characteristic communicate essential aspects of these items, but the very introduction of external elements themselves communicates something about the playful experience. A verbal bang, pointed finger, plastic cap-gun, and hyper-realistic 3D modeled firearm all say something very different about the design values in the games that include them, but the presence of weaponry at all as a "resource" communicates even more. Design researchers Mary Flanagan and Helen Nissenbaum introduce this idea in their book Values at Play which is a great read if you're interested in the social, critical and political design values of games and play.
 
 Kids are really good at turning normal objects into playthings, whether it be a tree, a crack in the sidewalk, or a cardboard box. We lose that as we get older, but every day we are confronted with things that provide opportunities for play. Take these ducks for example. Other than dress them up, how could we play with them? We could weave between them, jump from one to the next, mimic their poses? What do you think? Any ideas?
 
-We're going to keep going around this bend and head to the Triton Babies fountain. As you go, see what other objects present themselves as possible playthings? The carousel in the commons, obviously? But what else?
+We're going to keep going around this bend and head to the Triton Babies fountain. As you go, see what other objects present themselves as possible playthings? The carousel in the commons, obviously? But what else could become a playful object??
 
 ## Triton Babies Fountain
 
