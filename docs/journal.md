@@ -90,5 +90,6 @@ I've already put it into the track in Logic with the sound of a crowded room and
 
 A side note, but I realized as I was looking through these commits to get the audio file links, that Logic takes a screenshot of the project when you save it? So that screenshot is being versioned which is potentially very interesting?
 
-![Logic Window Image](https://raw.githubusercontent.com/mouseandthebillionaire/aitp/commits/main/Audio/Dialogues/dialogues.logicx/Alternatives/000/WindowImage.jpg)
+![Logic Window Image](https://raw.githubusercontent.com/mouseandthebillionaire/aitp/2c67cb0/Audio/Dialogues/dialogues.logicx/Alternatives/000/WindowImage.jpg
+)
 
