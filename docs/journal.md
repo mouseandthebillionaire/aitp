@@ -35,7 +35,7 @@ I took a (huge) swing at a first pass of the first part of the script, and it's 
 [Start Audio](https://github.com/mouseandthebillionaire/aitp/commit/375558fb8afea828525f724df3d098ace61a7b80/Audio/Dialogues/Bounces/start.aif)
 [Going Left Audio](https://github.com/mouseandthebillionaire/aitp/commit/4d6160b44a4e06b0264470b8de43a831835421f8/Audio/goingLeft.aif)
 [Bridge Audio](https://github.com/mouseandthebillionaire/aitp/commit/375558fb8afea828525f724df3d098ace61a7b80/Audio/Dialogues/Bounces/bridge.aif)
-[Score](https://github.com/mouseandthebillionaire/aitp/commit/858efcd666d1d12a1b460e922fe75e78a0d27519/Audio/Score/score Project/Bounces/score.wav)
+[Score](https://github.com/mouseandthebillionaire/aitp/commit/858efcd666d1d12a1b460e922fe75e78a0d27519/Audio/Score/score%20Project/Bounces/score.wav)
 
 Now off to test!
 
@@ -90,5 +90,5 @@ I've already put it into the track in Logic with the sound of a crowded room and
 
 A side note, but I realized as I was looking through these commits to get the audio file links, that Logic takes a screenshot of the project when you save it? So that screenshot is being versioned which is potentially very interesting?
 
-![Logic Window](https://github.com/mouseandthebillionaire/aitp/commit/2c67cb0ace6917ec75abb84ba61f21d80e5428b5/Audio/Dialogues/dialogues.logicx/Alternatives/000/WindowImage.jpg)
+[Logic Window Image](https://github.com/mouseandthebillionaire/aitp/commit/2c67cb0ace6917ec75abb84ba61f21d80e5428b5/Audio/Dialogues/dialogues.logicx/Alternatives/000/WindowImage.jpg)
 
