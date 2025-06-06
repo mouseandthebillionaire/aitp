@@ -61,9 +61,9 @@ These are just fun, right? An actual statue of play on this walk about play.
 
 Let's stop here for a second. It's nice to be here together, right? And we are together. We're in the same space. We're both occupying this space under the bridge. But not the same time? I'm here at 7pm on a very very rainy day in the end of May, and you'll be here later. What is it like for you today? Is the weather pleasant? Sunny? Warm? Overcast? Also rainy? 
 
-It's odd that we're in this same space, spread through time, but we're still together. We can both look at the swan boats. As I look at them, they are lashed together, with the wind whipping the waves around them. What do they look like to you? What is the one word that describes a swan boat in your time? 
+It's odd that we're in this same space, spread through time, but we're still together. We can both look at the swan boats. As I look at them, they are lashed together, with the wind whipping the waves around them. What do they look like to you? What is the one word that describes _your_ swan boats? 
 
-(INsert some sort of game here? Number guessing? I don't know)
+Oh, that makes me think of a game we can play. Copycat! On the count of three we'll both try and say the same word out loud. We'll try 5 times and see how many times we can get on the same wavelength. You ready?
 
 It's amazing that we can still engage in this state of play together. We agree to enter in this space, what game designers call "the magic circle" and look at the world through that specific lens of play. I could easily leave you a message here that you could find. Look around. Maybe I did? Am I the one who wrote ducks for life?
 
@@ -93,6 +93,16 @@ Bravo! Well done! That was great. Let's take off our imaginary fabulous vibes co
 ## Dawn Redwood?
 
 ** note: the general idea here would be something like "woah. Is that another Dawn Redwood. That's incredible. To think that two trees that were once thought to be extinct are here in this park together. Do you think that it can see/sense its sister tree across the lake" Blah blah blah. Sentimental ending. I don't know
+
+Hey, look at that! There's another Dawn Redwood on our left. Do you see it? That's wild. There's more than one of them in this garden? It's amazing to think that two trees that were thought to be extinct are now here in this park, standing across the lake from each other. And the whole park is full of trees from all over the world. Trees that otherwise would never stand next to each other. The garden has created this space for that kind of community.
+
+And I know it might sound a little cheesy, but I like to think that play brings us all together like that. In his book Play Matters, game researcher Miguel Sicart says "Play is a powerful manifestation of knowledge and being in the world, a way of becoming, learning, and expressing ourselves that is deeply and inherently human."
+
+As you walk back to where we started, I want you to think about that deepening of humanity and play a little (but potentially huge!) game that Bernie DeKoven lays out in the last chapter of his book "The Inifinite PLayground." He calls it Passing Humanity. For this game you try and make passing contact with strangers as you pass them on a walk. As you pass a stranger you try to establish eye contact and engage in a verbal or non-verbal encounter. A wave. A nod. A smile. A simple "hello." Up to you. Every time you get a response, as Bernie says, "humanity scores anywhere from one to ten points."
+
+Thanks for taking this walk with me. Thanks for being in a shared play-space. I hope that as you move forward throughout the day, you look at the world through a slightly different lens. That you see the things, people, and space around you with a new sheen. 
+
+Now. Let's go out and earn humanity some points.
 
 
 
