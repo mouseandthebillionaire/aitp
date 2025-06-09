@@ -101,7 +101,7 @@ Audio for the Catwalk game section is all done. Might need some level adjustment
 
 ## 06.07.25 | Experimental Score
 
-Tried a few ways to do the experimental score experience for the Triton Babies section and tl;dr none of them worked. I think the general problem is that a) the music is too subtle (so the listener (even me!) can't tell what's going on) and b) the location circles are too finicky for it to work quite right. In the two tests that I did, I used the [seperated marimba stems](https://github.com/mouseandthebillionaire/aitp/tree/main/Audio/Score/score%20Project/Bounces), and, while they sound great, it's just not snappy enough. Additionally, I tried a field of random sized circles (fig 1) and a bullseye-style thing (fig 2) where you hear one marimba stem at the outside ring, and as you get towards the center you hear all of them, but, as mentioned above _not successful_. 
+Tried a few ways to do the experimental score experience for the Triton Babies section and tl;dr none of them worked. I think the general problem is that a) the music is too subtle (so the listener (even me!) can't tell what's going on) and b) the location circles are too finicky for it to work quite right. In the two tests that I did, I used the [seperated marimba stems](https://github.com/mouseandthebillionaire/aitp/tree/main/Audio/Score/score%20Project/Bounces), and, while they sound great, it's just not snappy enough. Additionally, I tried a field of random sized circles (fig 1) and a bullseye-style thing (fig 2) where you hear one marimba stem at the outside ring, and as you get towards the center you hear all of them, but, as mentioned above... _not successful_. 
 
 ![fig 1](../Media/Screen%20Shot%202025-06-07%20at%2010.15.33.png)
 <sub>fig 1</sub>
@@ -109,4 +109,16 @@ Tried a few ways to do the experimental score experience for the Triton Babies s
 ![fig 2](../Media/Screen%20Shot%202025-06-07%20at%2010.39.29.png)
 <sub>fig 2</sub>
 
-I think the way forward here is random sound effects with the prompt being "I have hidden some sounds around this area. See if you can find them!" I will test when I am in Boston to see if it works. Otherwise, I'll scrap the whole section.
+I think the way forward here is random sound effects with the prompt being "I have hidden some sounds around this area. See if you can find them!" I will test when I am in Boston to see if it works. Otherwise, I'll scrap the whole section..
+
+## 06.08.25 | Boston 
+
+Well okay. Arrived in Boston this afternoon and got to test out a version of this thing. So many issues:
+
+* The music is waaay to loud. And a little annoying. Need to change the first track to be more chill
+* Along with that, the vocals are too quiet. But also, maybe the effects that I put in there to make it sound more airy aren't working? I need to try another version tomorrow with the quieter score to see if it helps, but my gut is that I'm going to need to clear out the spatial effects too. 
+* My plan is to load all of it into Logic so that I can do more fine-grained volume adjustment in there.
+* Many of the audio tracks are wrong and need to be swapped out
+* There are a few timing and verbal beats that I don't love. Lower priority, but I'll tweak as I go 
+
+Not sure how I'm going to be able to address these while also trying to attend the conference. I think that I will go to the first session stuff tomorrow as a lot of that looks really interesting, and then assess how much I can see after that
