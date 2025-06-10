@@ -55,7 +55,13 @@ We're going to keep going around this bend and head to the Triton Babies fountai
 
 ## Triton Babies Fountain
 
-These are just fun, right? An actual statue of play on this walk about play.
+This sculpture is just fun, right? An actual statue of play on this walk about play. There's a sister statute on the other side that was done by Lilian Swann Saarinen, the first wife of Architect Eero Saarinen. It is also awesome, but it's maybe a bit darker? While _this_ statue shows two kids playing together, that one (inspired by the Jungle Book) shows a panther "toying" with an owl. Two very different versions of play, maybe?
+
+I thought maybe it would be fun to try a simple game experiment with you here, playing with the platform that we're using for this soundwalk. I have hidden a number of secret echos around this area for you to find. You don't have to, obviously, you're welcome to move on at any point, but if you DO find them all, there just might be a special version (branch?) of this soundwalk just for you...
+
+Good luck! 
+
+Either way, once you're ready to move on, head on down the path and meet me under the bridge.
 
 ## Under the Bridge
 
