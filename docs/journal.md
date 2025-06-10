@@ -121,4 +121,20 @@ Well okay. Arrived in Boston this afternoon and got to test out a version of thi
 * Many of the audio tracks are wrong and need to be swapped out
 * There are a few timing and verbal beats that I don't love. Lower priority, but I'll tweak as I go 
 
-Not sure how I'm going to be able to address these while also trying to attend the conference. I think that I will go to the first session stuff tomorrow as a lot of that looks really interesting, and then assess how much I can see after that
+Not sure how I'm going to be able to address these while also trying to attend the conference. I think that I will go to the first session stuff tomorrow as a lot of that looks really interesting, and then assess how much I can see after that.
+
+## 06.09.25 | Getting Close
+
+Some boring "things that I did on this today" before the exciting new idea that I'm going to test tomorrow...
+
+* met with Josh from Echoes and figured out how to do ducking so that the soundtrack isn't too loud during the dialogue sections
+* tested four times and fixed various things between those tests (moved the echoes around, fixed pops, etc)
+* _tried_ to fix some of my dialogue errors (mispronunciations, mostly), but ugh, what a pain. I don't have the same mic that I recorded all of that on and the fan on this computer is struggling and the fan in this airbnb is loud and there's _no_ way that I'm going to be able to match _anything_ so I might just have to rerecord everything? Or live with it? TBD
+
+Anyway
+
+An idea occured to me as I was walking around today (and also while writing) the Triton Babies part: instead of just hiding random found sounds, why not make it more of a game. Literally finding sounds! With the logic options in Echoes, it can actually be a reward situation. As in, if you find all of the sounds there's a different version of the walk for you? The first swing at this is telling the participant to try and find the sounds OR let them know that they can go over to the other statue (thus missing the "under the bridge section"). BUT, if they find all of the hidden echoes, then I tell them to go under the bridge instead. I'm not sure how much I love keeping the under the bridge section from everyone, but maybe that's the point? Classic game design, creating content that not everyone is going to see... 
+
+Also, at this point the sound for "you found a sound" is soooo over-the-top, basically a sound effect from Scott Pilgrim. I can't tell if it's genius, or if I'm exhausted. Probably both. Tomorrow will tell.
+
+[Sound Found!](https://github.com/mouseandthebillionaire/aitp/commit/c06577d36cc0be671eb54b6796e181dba04f118d/Audio/FoundSounds/fs_0.wav)
