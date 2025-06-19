@@ -1,5 +1,3 @@
-
-![[../docs/JournalRecordings/Recording 20250619152318.m4a]]
 # Camera-Ready Documentation
 
 Key Requirements:
