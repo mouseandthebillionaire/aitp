@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CRD.md",
+                "file": "docs/journal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CRD"
+              "title": "journal"
             }
           }
         ]
@@ -165,29 +165,30 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
   "active": "1bc1d9f3196f706a",
   "lastOpenFiles": [
-    "Audio/Dialogues/dialogues.logicx/Alternatives/000/Project File Backups/07/ProjectData",
-    "Audio/Dialogues/dialogues.logicx/Alternatives/000/Project File Backups/07/MetaData.plist",
-    "Audio/Dialogues/dialogues.logicx/Alternatives/000/Project File Backups/07",
-    "Audio/Dialogues/dialogues.logicx/tmp/dialogues.logicx/Alternatives/000/ProjectData",
-    "Audio/Dialogues/dialogues.logicx/tmp/dialogues.logicx/Resources/ProjectInformation.plist",
-    "Audio/Dialogues/dialogues.logicx/tmp/dialogues.logicx/Alternatives/000",
-    "Audio/Dialogues/dialogues.logicx/tmp/dialogues.logicx/Resources",
-    "Audio/Dialogues/dialogues.logicx/tmp/dialogues.logicx/Media",
-    "Audio/Dialogues/dialogues.logicx/tmp/dialogues.logicx/Alternatives",
-    "Audio/Dialogues/dialogues.logicx/tmp/dialogues.logicx",
-    "Audio/Dialogues/dialogues.logicx/tmp",
+    "Audio/Dialogues/Bounces/3_tritonBabies.wav",
+    "Audio/Dialogues/Audio Files/pad_1.wav",
+    "Audio/Dialogues/Audio Files/pad_0.wav",
+    "Audio/Dialogues/Audio Files/marimba.wav",
+    "Audio/Dialogues/Audio Files/dialogues_44#03.aif",
+    "Audio/Dialogues/Audio Files/dialogues_44#02.aif",
+    "Audio/Dialogues/Audio Files/dialogues_44#01.aif",
+    "Audio/Dialogues/Audio Files/dialogues_41#01.aif",
+    "Audio/Dialogues/Audio Files/dialogues_39#10.aif",
+    "Audio/Dialogues/Audio Files/dialogues_39#08.aif",
+    "Audio/Dialogues/Audio Files/dialogues_39#06.aif",
+    "CRD.md",
     "docs/journal.md",
     "Media/Screenshot 2025-05-22 at 18.30.30.png",
     "Audio/Dialogues/dialogues.logicx/Alternatives/000/WindowImage.jpg",
     "Media/playground.jpg",
     "Media/children-playing-at-lincoln-park-seattle-ca-1907-mohai-7018-0dba62.jpg",
     "Script.md",
-    "CRD.md",
     "README.md"
   ]
 }

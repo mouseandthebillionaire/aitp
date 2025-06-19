@@ -99,6 +99,7 @@ Audio for the Catwalk game section is all done. Might need some level adjustment
 
 [Catwalk Section Audio](https://github.com/mouseandthebillionaire/aitp/commit/395c4a9732eecd5541200d77d6d8999af28172a0#diff-f6d660fa58e09a993bd6c7727679af94a614bae364a8292672cdb843f937e6e1/Audio/Score/score%20Project/Bounces/catwalk.wav)
 
+
 ## 06.07.25 | Experimental Score
 
 Tried a few ways to do the experimental score experience for the Triton Babies section and tl;dr none of them worked. I think the general problem is that a) the music is too subtle (so the listener (even me!) can't tell what's going on) and b) the location circles are too finicky for it to work quite right. In the two tests that I did, I used the [seperated marimba stems](https://github.com/mouseandthebillionaire/aitp/tree/main/Audio/Score/score%20Project/Bounces), and, while they sound great, it's just not snappy enough. Additionally, I tried a field of random sized circles (fig 1) and a bullseye-style thing (fig 2) where you hear one marimba stem at the outside ring, and as you get towards the center you hear all of them, but, as mentioned above... _not successful_. 
