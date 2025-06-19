@@ -141,4 +141,4 @@ Also, at this point the sound for "you found a sound" is soooo over-the-top, bas
 [Sound Found!](https://github.com/mouseandthebillionaire/aitp/commit/c06577d36cc0be671eb54b6796e181dba04f118d/Audio/FoundSounds/fs_0.wav)
 
 
-![[Recording 20250619154146.m4a]]
+[Journal Recording Test](JournalRecordings/Recording%2020250619154146.m4a)
