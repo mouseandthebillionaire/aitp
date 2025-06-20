@@ -140,5 +140,16 @@ Also, at this point the sound for "you found a sound" is soooo over-the-top, bas
 
 [Sound Found!](https://github.com/mouseandthebillionaire/aitp/commit/c06577d36cc0be671eb54b6796e181dba04f118d/Audio/FoundSounds/fs_0.wav)
 
+## 06.11.25 | Launch!
 
-[Journal Recording Test](JournalRecordings/Recording%2020250619154146.m4a)
+We're live! ICMC launched all of the soundwalks today, and it's so nice to finally be done with this. It doesn't sound quite as good as I'd like (especially the new Trident Babies recordings), but I can fix some things up over the coming week. I can't imagine that a lot of people are going to have time to do it (there's no "scheduled" time for soundwalks, and there's soooo much content over the week), but it's nice to have something permanently up and running. Theoretically anyone can go listen to this thing [here](https://explore.echoes.xyz/collections/5R1qvWZkyniHAjz0), which is really nice! On the flip side, it feels like it exits in a bit of a black hole. I'm so used to getting immediate feedback (watching people play a thing) and this is very different than that. No comments. No feedback. No observation. I'm going to add it to the website and share with the ngh Discord, so maybe there will be something from that. 
+
+Anyway. Done! 
+
+## 06.20.25 | Voice Journal Experiment
+
+[Audio Journal](audioJournal.md)
+
+Just a quick experiment to test the functionality of using an obsidian plugin that does voice recordings. It doesn't save/format them in a way that makes them listenable direct from the repo, but theoretically people _could_ download them? But also, maybe these could just be for me, and they work fine in Obsidian? But on the other other hand, that's relying on a plugin to keep working on a platform, so...
+
+Things to think about
