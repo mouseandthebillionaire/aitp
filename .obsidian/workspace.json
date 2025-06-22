@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CRD.md",
+                "file": "docs/journal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CRD"
+              "title": "journal"
             }
           }
         ]
@@ -165,29 +165,33 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
   "active": "1bc1d9f3196f706a",
   "lastOpenFiles": [
-    "Audio/Dialogues/dialogues.logicx/Alternatives/000/Project File Backups/07/ProjectData",
-    "Audio/Dialogues/dialogues.logicx/Alternatives/000/Project File Backups/07/MetaData.plist",
-    "Audio/Dialogues/dialogues.logicx/Alternatives/000/Project File Backups/07",
-    "Audio/Dialogues/dialogues.logicx/tmp/dialogues.logicx/Alternatives/000/ProjectData",
-    "Audio/Dialogues/dialogues.logicx/tmp/dialogues.logicx/Resources/ProjectInformation.plist",
-    "Audio/Dialogues/dialogues.logicx/tmp/dialogues.logicx/Alternatives/000",
-    "Audio/Dialogues/dialogues.logicx/tmp/dialogues.logicx/Resources",
-    "Audio/Dialogues/dialogues.logicx/tmp/dialogues.logicx/Media",
-    "Audio/Dialogues/dialogues.logicx/tmp/dialogues.logicx/Alternatives",
-    "Audio/Dialogues/dialogues.logicx/tmp/dialogues.logicx",
-    "Audio/Dialogues/dialogues.logicx/tmp",
+    "docs/audioJournal.md",
+    "Media/audioRecordings/06.20.25.14.10.m4a",
+    "Media/audioRecordings",
     "docs/journal.md",
+    "docs/JournalRecordings/Recording 20250619152318.m4a",
+    "Script.md",
+    "docs/JournalRecordings/Recording 20250619154146.m4a",
+    "Media/Screen Shot 2025-06-07 at 10.39.29.png",
+    "Media/Screen Shot 2025-06-07 at 10.15.33.png",
+    "Description.md",
+    "Audio/Score/score Project/Bounces/marimba.wav",
+    "Audio/Score/score Project/Bounces/arp0.wav",
+    "Audio/Score/score Project/Backup/score2 Project/score2 [2025-06-09 201220].als",
+    "Audio/Score/score Project/Backup/score2 Project/score2 [2025-06-08 223300].als",
+    "Audio/Score/score Project/Backup/score2 Project/score2 [2025-06-08 205632].als",
+    "Audio/Score/score Project/Backup/score2 Project/score2 [2025-06-08 204641].als",
+    "CRD.md",
     "Media/Screenshot 2025-05-22 at 18.30.30.png",
     "Audio/Dialogues/dialogues.logicx/Alternatives/000/WindowImage.jpg",
     "Media/playground.jpg",
     "Media/children-playing-at-lincoln-park-seattle-ca-1907-mohai-7018-0dba62.jpg",
-    "Script.md",
-    "CRD.md",
     "README.md"
   ]
 }

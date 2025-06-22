@@ -99,6 +99,7 @@ Audio for the Catwalk game section is all done. Might need some level adjustment
 
 [Catwalk Section Audio](https://github.com/mouseandthebillionaire/aitp/commit/395c4a9732eecd5541200d77d6d8999af28172a0#diff-f6d660fa58e09a993bd6c7727679af94a614bae364a8292672cdb843f937e6e1/Audio/Score/score%20Project/Bounces/catwalk.wav)
 
+
 ## 06.07.25 | Experimental Score
 
 Tried a few ways to do the experimental score experience for the Triton Babies section and tl;dr none of them worked. I think the general problem is that a) the music is too subtle (so the listener (even me!) can't tell what's going on) and b) the location circles are too finicky for it to work quite right. In the two tests that I did, I used the [seperated marimba stems](https://github.com/mouseandthebillionaire/aitp/tree/main/Audio/Score/score%20Project/Bounces), and, while they sound great, it's just not snappy enough. Additionally, I tried a field of random sized circles (fig 1) and a bullseye-style thing (fig 2) where you hear one marimba stem at the outside ring, and as you get towards the center you hear all of them, but, as mentioned above... _not successful_. 
@@ -138,3 +139,17 @@ An idea occured to me as I was walking around today (and also while writing) the
 Also, at this point the sound for "you found a sound" is soooo over-the-top, basically a sound effect from Scott Pilgrim. I can't tell if it's genius, or if I'm exhausted. Probably both. Tomorrow will tell.
 
 [Sound Found!](https://github.com/mouseandthebillionaire/aitp/commit/c06577d36cc0be671eb54b6796e181dba04f118d/Audio/FoundSounds/fs_0.wav)
+
+## 06.11.25 | Launch!
+
+We're live! ICMC launched all of the soundwalks today, and it's so nice to finally be done with this. It doesn't sound quite as good as I'd like (especially the new Trident Babies recordings), but I can fix some things up over the coming week. I can't imagine that a lot of people are going to have time to do it (there's no "scheduled" time for soundwalks, and there's soooo much content over the week), but it's nice to have something permanently up and running. Theoretically anyone can go listen to this thing [here](https://explore.echoes.xyz/collections/5R1qvWZkyniHAjz0), which is really nice! On the flip side, it feels like it exits in a bit of a black hole. I'm so used to getting immediate feedback (watching people play a thing) and this is very different than that. No comments. No feedback. No observation. I'm going to add it to the website and share with the ngh Discord, so maybe there will be something from that. 
+
+Anyway. Done! 
+
+## 06.20.25 | Voice Journal Experiment
+
+[Audio Journal](audioJournal.md)
+
+Just a quick experiment to test the functionality of using an obsidian plugin that does voice recordings. It doesn't save/format them in a way that makes them listenable direct from the repo, but theoretically people _could_ download them? But also, maybe these could just be for me, and they work fine in Obsidian? But on the other other hand, that's relying on a plugin to keep working on a platform, so...
+
+Things to think about
