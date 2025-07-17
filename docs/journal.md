@@ -153,3 +153,7 @@ Anyway. Done!
 Just a quick experiment to test the functionality of using an obsidian plugin that does voice recordings. It doesn't save/format them in a way that makes them listenable direct from the repo, but theoretically people _could_ download them? But also, maybe these could just be for me, and they work fine in Obsidian? But on the other other hand, that's relying on a plugin to keep working on a platform, so...
 
 Things to think about.
+
+## 07.17.25 | Audio File Fixes
+
+Finally got around to re-recording and uploading a version of the Triton Babies dialogue recorded in my home studio so that the audio quality matches better. And with that, it's a final wrap! Only thing left to do is a final reflective journal (and eventual repo analysis) but I'll wait until tomorrow to let that percolate.
