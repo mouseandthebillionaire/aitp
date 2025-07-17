@@ -152,4 +152,4 @@ Anyway. Done!
 
 Just a quick experiment to test the functionality of using an obsidian plugin that does voice recordings. It doesn't save/format them in a way that makes them listenable direct from the repo, but theoretically people _could_ download them? But also, maybe these could just be for me, and they work fine in Obsidian? But on the other other hand, that's relying on a plugin to keep working on a platform, so...
 
-Things to think about
+Things to think about.
